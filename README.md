@@ -13,12 +13,6 @@ I have a deep passion for **programming**, continuous learning, and crafting imp
 **Backend:** Node.js, Express, MongoDB, Redis  
 **DevOps & Tools:** Docker, CI/CD, Nginx, Git, GitHub, VS Code, Postman  
 
----
-
-### 📈 GitHub Stats
-
-![Sabih's GitHub stats](https://github-readme-stats.vercel.app/api?username=sabihkahn&show_icons=true&theme=transparent&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sabihkahn&layout=compact&theme=transparent&hide_border=true)
 
 ---
 
