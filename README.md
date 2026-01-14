@@ -20,7 +20,7 @@ I have a deep passion for **programming**, continuous learning, and crafting imp
 
 - **Email:** [sabihkhan.dev@gmail.com](mailto:sabihkhan.dev@gmail.com)
 - **LinkedIn:** [linkedin.com/in/sabihkhan-dev](https://linkedin.com/in/sabihkhan-dev)
-- **Portfolio:** [sabihkhan.vercel.app](https://sabihkhan.vercel.app)
+- **Portfolio:** [sabihkhan.com](https://sabih-khan.netlify.app/)
 
 ---
 
