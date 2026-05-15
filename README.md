@@ -19,7 +19,7 @@ I have a deep passion for **programming**, continuous learning, and crafting imp
 ### 🌍 Connect with Me
 
 - **Email:** [sabihkhan.dev@gmail.com](mailto:sabihkhan.dev@gmail.com)
-- **LinkedIn:** [linkedin.com/in/sabihkhan-dev](https://linkedin.com/in/sabihkhan-dev)
+- **LinkedIn:** [linkedin.com/in/sabihkhan-dev](https://sabihkhan2.netlify.app/)
 - **Portfolio:** [sabihkhan.com](https://sabih-khan.netlify.app/)
 
 ---
